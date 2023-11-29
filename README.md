@@ -3,7 +3,8 @@ This application was made with help from Bob Ziroll's React course on [Scrimba](
 The application uses [Vite](https://vitejs.dev/) to run locally
 
 [Firebase's](https://firebase.google.com/) Firestore is used for persistence and a config (firebase.js) is 
-needed to to make the app run
+needed to to make the app run. Once you have a Firestore database, find the config code and copy-paste the
+`firebaseConfig` in `firestore.js`
 
 Quick start:
 ```
